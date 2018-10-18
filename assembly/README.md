@@ -1,7 +1,7 @@
 # Hot to compile
 
 
-You can import this file in **_CBM prg Studio_**.
+You can import these file in **_CBM prg Studio_**.
 
 After import you can compile and run in an emulator (like **_VICE_**) simply by pressing **_F5_** key.
 
